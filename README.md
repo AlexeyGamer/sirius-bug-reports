@@ -1,4 +1,4 @@
-# sirius-bug-reports
+# sirus-bug-reports
 Баг‑репорты для сайта sirius.one (сервер WoW 3.3.5)
 
 ## Что внутри
